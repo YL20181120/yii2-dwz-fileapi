@@ -1,6 +1,6 @@
 #Yii2 Dwz Fileapi
 ================
-Yii2 Dwz Fileapi
+This widget is a Yii 2 wrapper of [FileAPI](https://github.com/RubaXa/jquery.fileapi) plugin.
 
 Installation
 ------------
