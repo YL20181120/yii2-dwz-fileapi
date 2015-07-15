@@ -17,5 +17,11 @@
         "psr-4": {
             "yii2\\dwz\\fileapi\\": ""
         }
-    }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/KillMeAgain/yii2-dwz-fileapi.git"
+        }
+    ]
 }
