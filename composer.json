@@ -1,0 +1,21 @@
+{
+    "name": "vendor/yii2-dwz-fileapi",
+    "description": "Yii2 Dwz Fileapi",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Mr.You",
+            "email": "youjingqiang@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii2\\dwz\\fileapi\\": ""
+        }
+    }
+}
